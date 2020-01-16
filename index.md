@@ -1,4 +1,4 @@
-# Please select a rendering theme for my CV:
+# Select theme for CV:
 
 * [Default](http://resume.gordonrudman.com)
 * [Machine readable](machineReadableResume.html)
